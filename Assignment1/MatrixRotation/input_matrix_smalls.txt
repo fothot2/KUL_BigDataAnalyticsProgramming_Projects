@@ -1,0 +1,7 @@
+3 m3by3.txt
+10 m10by10.txt
+20 m20by20.txt 
+40 m40by40.txt
+80 m80by80.txt
+120 m120by120.txt
+240 m240by240.txt
