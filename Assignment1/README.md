@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 Benchmarks & Results
+## Benchmarks & Results
 
 ### Matrix Rotation Performance
 
@@ -55,7 +55,7 @@ The LSD Radix Sort performed worst overall, particularly on variable-length stri
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 ### Matrix Rotation
 
