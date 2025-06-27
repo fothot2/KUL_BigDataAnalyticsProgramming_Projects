@@ -109,6 +109,6 @@ Implement two versions of a function to find the closest example in a dataset:
 
 ## Notes
 
-- NBA tracking data is confidential and is not redistributed.
+- NBA tracking data is confidential and not redistributed.
 - Use monotonically increasing IDs to preserve order when clocks are unreliable.
 - SIMD performance depends on dataset width and memory alignment.

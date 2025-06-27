@@ -24,7 +24,7 @@ This repository contains a collection of programming assignments completed as pa
 
 - **MinHash + LSH (Java)**: Efficient similarity detection on 5M tweets.
 - **Custom optimizations**: 1D signature matrices, dynamic hash buckets, early exit logic.
-- **Hyperparameter tuning**: Automated via Python driver script with runtime and accuracy tracking.
+- **Hyperparameter tuning**: Automated via Python driver script with runtime tracking.
 
 ---
 
